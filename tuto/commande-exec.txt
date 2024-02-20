@@ -1,0 +1,5 @@
+java -cp pddl4j-4.0.0.jar fr.uga.pddl4j.planners.statespace.FF \
+   src/test/resources/benchmarks/pddl/ipc2000/blocks/strips-typed/domain.pddl\
+   src/test/resources/benchmarks/pddl/ipc2000/blocks/strips-typed/p001.pddl 
+
+ 
